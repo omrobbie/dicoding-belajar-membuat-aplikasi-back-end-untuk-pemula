@@ -293,6 +293,8 @@ Bila `id` dimiliki oleh salah satu buku, maka buku tersebut harus dihapus dan se
   }
   ```
 
+---
+
 ## Harap diperhatikan!
 Bagi teman-teman yang masih mengikuti kelas dari dicoding, [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/academies/261). Silahkan gunakan source ini sebagai bahan referensi, tapi TIDAK untuk disalin secara utuh tanpa tau cara implementasinya.
 
